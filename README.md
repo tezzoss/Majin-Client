@@ -1,4 +1,6 @@
 # Majin-Client
 majin client for vrchat by tezzo and flip14201
 
-GO TO RELEASES AND DOWNLOAD THE ZIP. WHENEVER YOU ARE DONE EDITING COME BACK AND MAKE A NEW RELEASE WITH THE UPDATED ZIP
+-------------------------
+deprecated as of vrchat EAC being added
+used to be a private repository but now public for anyone to look at
